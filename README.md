@@ -1,5 +1,5 @@
 # the-ethics-stack
-A growing collection of tools, templates, and frameworks for building ethical, user-centered, brain-aware tech products
+A growing collection of resources, tools, templates, and frameworks for building ethical, user-centered, brain-aware tech & AI products.
 
 # Posts & Case Studies
 
