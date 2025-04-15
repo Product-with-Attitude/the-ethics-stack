@@ -11,7 +11,7 @@ A growing collection of resources, tools, templates, and frameworks for building
 [Fix your Ethics After Lunch, not After Launch
 ](https://karozieminski.substack.com/p/fix-your-ethics-after-lunch-not-after)
 
-[Help Me Name This Post (There’s A Surprise)
+[Help Me Name This Post
 ](https://karozieminski.substack.com/p/help-me-name-this-post-theres-a-surprise)
 
 ## UX Ethics 
