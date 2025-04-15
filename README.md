@@ -5,7 +5,7 @@ A growing collection of resources, tools, templates, and frameworks for building
 [AI Tools Deep Dives by Substack Community: A Curated Repository](https://open.substack.com/pub/karozieminski/p/big-launch-ai-tools-directory-deep?r=gngtc&utm_medium=ios)
 
 
-Posts & Case Studies
+# Deep Dives & Case Studies
 
 ## Product Ethics 
 [Fix your Ethics After Lunch, not After Launch
