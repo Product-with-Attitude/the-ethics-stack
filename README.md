@@ -1,8 +1,8 @@
 # the-ethics-stack
 A growing collection of resources, tools, templates, and frameworks for building ethical, user-centered, brain-aware tech & AI products.
 
-#Directories
-https://open.substack.com/pub/karozieminski/p/big-launch-ai-tools-directory-deep?r=gngtc&utm_medium=ios
+# Directories
+[AI Tools Deep Dives by Substack Community: A Curated Repository](https://open.substack.com/pub/karozieminski/p/big-launch-ai-tools-directory-deep?r=gngtc&utm_medium=ios)
 
 
 Posts & Case Studies
